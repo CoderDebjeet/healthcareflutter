@@ -16,6 +16,15 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Video :- 
+Demo of my project :
+Dhanvantari App has a chatbot named Baidya: 
+Images of the Chatbot: 
 
+![symptoms and treatment (1)](https://github.com/user-attachments/assets/d44a692d-5aa2-4e6c-b0f7-3f672f9fbfd9)
+
+![symptoms and treatment (2)](https://github.com/user-attachments/assets/337fb47f-b22d-45f7-a355-0b2c547ce631)
+
+
+Demo of the flutter APP Dhanvantari: 
 https://github.com/CoderDebjeet/healthcareflutter/assets/91367172/8b96aec5-3619-4834-849e-3f5d47a4abe4
 
